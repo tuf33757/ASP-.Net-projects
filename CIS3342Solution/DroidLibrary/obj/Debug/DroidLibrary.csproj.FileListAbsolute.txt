@@ -1,0 +1,4 @@
+E:\CIS3342Solution\DroidLibrary\bin\Debug\DroidLibrary.dll
+E:\CIS3342Solution\DroidLibrary\bin\Debug\DroidLibrary.pdb
+E:\CIS3342Solution\DroidLibrary\obj\Debug\DroidLibrary.dll
+E:\CIS3342Solution\DroidLibrary\obj\Debug\DroidLibrary.pdb

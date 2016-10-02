@@ -1,0 +1,9 @@
+G:\CIS3342\CIS3342Solution\HomePage\bin\HomePage.dll
+G:\CIS3342\CIS3342Solution\HomePage\bin\HomePage.pdb
+G:\CIS3342\CIS3342Solution\HomePage\obj\Debug\HomePage.dll
+G:\CIS3342\CIS3342Solution\HomePage\obj\Debug\HomePage.pdb
+E:\CIS3342Solution\HomePage\bin\HomePage.dll
+E:\CIS3342Solution\HomePage\bin\HomePage.pdb
+E:\CIS3342Solution\HomePage\obj\Debug\HomePage.csprojResolveAssemblyReference.cache
+E:\CIS3342Solution\HomePage\obj\Debug\HomePage.dll
+E:\CIS3342Solution\HomePage\obj\Debug\HomePage.pdb

@@ -1,0 +1,15 @@
+G:\CIS3342\CIS3342Solution\Utilities\bin\Release\Utilities.dll
+G:\CIS3342\CIS3342Solution\Utilities\bin\Release\Utilities.pdb
+G:\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.dll
+G:\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.pdb
+E:\CIS3342Solution\Utilities\bin\Release\Utilities.dll
+E:\CIS3342Solution\Utilities\bin\Release\Utilities.pdb
+E:\CIS3342Solution\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+E:\CIS3342Solution\Utilities\obj\Release\Utilities.dll
+E:\CIS3342Solution\Utilities\obj\Release\Utilities.pdb
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Utilities\bin\Release\Utilities.dll
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Utilities\bin\Release\Utilities.pdb
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.dll
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Utilities\obj\Release\Utilities.pdb

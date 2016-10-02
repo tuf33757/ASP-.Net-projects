@@ -1,0 +1,5 @@
+E:\CIS3342Solution\DroidLibrary\bin\Release\DroidLibrary.dll
+E:\CIS3342Solution\DroidLibrary\bin\Release\DroidLibrary.pdb
+E:\CIS3342Solution\DroidLibrary\obj\Release\DroidLibrary.dll
+E:\CIS3342Solution\DroidLibrary\obj\Release\DroidLibrary.pdb
+E:\CIS3342Solution\DroidLibrary\obj\Release\DroidLibrary.csprojResolveAssemblyReference.cache

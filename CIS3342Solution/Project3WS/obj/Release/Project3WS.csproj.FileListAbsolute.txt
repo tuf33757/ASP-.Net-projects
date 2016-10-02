@@ -1,0 +1,7 @@
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\bin\Project3WS.dll
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\bin\Project3WS.pdb
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\bin\Utilities.dll
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\bin\Utilities.pdb
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\obj\Release\Project3WS.csprojResolveAssemblyReference.cache
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\obj\Release\Project3WS.dll
+C:\Users\Tuf33757\Source\Repos\CIS3342\CIS3342Solution\Project3WS\obj\Release\Project3WS.pdb
